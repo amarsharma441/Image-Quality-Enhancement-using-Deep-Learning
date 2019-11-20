@@ -5,11 +5,4 @@
 # RESULTS
 
 
-![](https://github.com/amarsharma441/Image-Deblurring-Using-DCGAN/blob/master/Results/h1.png)
-Blurry
-
-![](https://github.com/amarsharma441/Image-Deblurring-Using-DCGAN/blob/master/Results/h2.png)
-Translated
-
-![](https://github.com/amarsharma441/Image-Deblurring-Using-DCGAN/blob/master/Results/h3.png)
-Ground Truth
+![](https://github.com/amarsharma441/Image-Deblurring-Using-DCGAN/blob/master/Results/Untitled%20copy.png)
