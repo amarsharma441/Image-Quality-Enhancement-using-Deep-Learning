@@ -1,4 +1,4 @@
-# Image-Deblurring-Using-DCGAN
+# Image Deblurring and Quality Enhancement using Deep Convolutional Generative Adversarial Network (DCGAN)
 * Implemented conditional DCGAN to improve the quality of blurry images.
 * Used U-Net architecture to encode high level features and employed transpose convolution in decoding layers to generate deblurred(sharp) images.
 * Used 10 types of blurring kernel with varying filter shapes, to build a dataset of 1,30,000
