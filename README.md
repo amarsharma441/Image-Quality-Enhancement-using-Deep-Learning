@@ -10,9 +10,11 @@
 
 
 ![](https://github.com/amarsharma441/Image-Deblurring-Using-DCGAN/blob/master/Results/res.png)
+
 <br>
+
 ## :boy: Owner ##
-Made with :heart:&nbsp;  by [Amar Sharma](https://github.com/amarsharma441)
+Made with :heart:&nbsp;  by [Amar Sharma](https://www.linkedin.com/in/amarsharma441)
 
 ## :copyright: License ##
 MIT © [License](https://github.com/amarsharma441/Image-Quality-Enhancement-using-Deep-Learning/blob/master/LICENSE)
