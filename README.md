@@ -16,5 +16,10 @@
 ## :boy: Owner ##
 Made with :heart:&nbsp;  by [Amar Sharma](https://www.linkedin.com/in/amarsharma441)
 
+## :copyright: Copyright ##
+Issuing Authority: Ministry of Commerce and Industry, Government of India <br>
+Issued Date: 1st-Oct-2020 <br>
+ROC No: [SW-13749/2020](https://github.com/amarsharma441/Image-Quality-Enhancement-using-Deep-Learning/blob/master/COPYRIGHT)
+
 ## :copyright: License ##
 MIT © [License](https://github.com/amarsharma441/Image-Quality-Enhancement-using-Deep-Learning/blob/master/LICENSE)
