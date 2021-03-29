@@ -19,7 +19,8 @@ Made with :heart:&nbsp;  by [Amar Sharma](https://www.linkedin.com/in/amarsharma
 ## :copyright: Copyright ##
 Issuing Authority: Ministry of Commerce and Industry, Government of India <br>
 Issued Date: 1st-Oct-2020 <br>
-ROC No: [SW-13749/2020](https://github.com/amarsharma441/Image-Quality-Enhancement-using-Deep-Learning/blob/master/COPYRIGHT)
+Diary Number: [10623/2020-CO/SW](https://drive.google.com/file/d/1nD572jToSTW37Gqi9KLqffIIyxS8HdbO/view?usp=sharing) <br>
+ROC No: [SW-13749/2020](https://drive.google.com/file/d/1nD572jToSTW37Gqi9KLqffIIyxS8HdbO/view?usp=sharing)
 
 ## :copyright: License ##
-MIT © [License](https://github.com/amarsharma441/Image-Quality-Enhancement-using-Deep-Learning/blob/master/LICENSE)
+MIT © [License](https://drive.google.com/file/d/1nD572jToSTW37Gqi9KLqffIIyxS8HdbO/view?usp=sharing)
